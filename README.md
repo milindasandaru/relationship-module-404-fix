@@ -38,7 +38,12 @@
 - 💝 Relationship module: `404 Error` → `Beta Testing` → `Stable Release v1.0`  
 - 💰 Payment portal: `Loading...` → `Fully Functional`  
 - 🎓 Life XP: `MAX LEVEL` → `LEGENDARY++`  
-- 😊 Happiness Index: `Increasing...`  
+- 😊 Happiness Index: `Increasing...` 
+
+## 🧠 Tech Stack
+- 💻 Python – for handling emotional logic
+- ❤️ GitHub – for storing our memories
+- 🕒 Patience – for waiting for replies
 
 ---
 
