@@ -47,6 +47,14 @@
 
 ---
 
+## ⭐ Don't Forget to Star!
+Every repo deserves a little bit of love 💖  
+If this project made you smile (or reminded you of your last bug in love 😅),  
+go ahead and **⭐ Star** it —  
+because even **repositories need affection** to stay alive 🥹💕
+
+---
+
 ### 🎭 **Remember: This is JUST FOR FUN!** 
 *Built with ❤️, humor 😂, and a touch of hopeless romanticism 🌹*
 
