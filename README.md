@@ -45,8 +45,6 @@
 - ❤️ GitHub – for storing our memories
 - 🕒 Patience – for waiting for replies
 
----
-
 ## ⭐ Don't Forget to Star!
 Every repo deserves a little bit of love 💖  
 If this project made you smile (or reminded you of your last bug in love 😅),  
